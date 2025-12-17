@@ -60,6 +60,10 @@ header a h1 {
   color: white;
   text-decoration: none;
 }
+header a:hover {
+  color: #007bff; 
+  text-decoration: none; 
+}
 /* HERO SECTION */
 .hero {
   padding: 100px 20px;
