@@ -57,10 +57,9 @@ header nav a:hover::after {
   width: 100%;
 }
 header a h1 {
-  color: white;     
-  text-decoration: none; 
+  color: white;
+  text-decoration: none;
 }
-
 /* HERO SECTION */
 .hero {
   padding: 100px 20px;
@@ -207,4 +206,5 @@ html {
     align-items: center;
   }
 }
+
 
