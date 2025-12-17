@@ -56,6 +56,10 @@ header nav a:hover {
 header nav a:hover::after {
   width: 100%;
 }
+header a h1 {
+  color: white;     
+  text-decoration: none; 
+}
 
 /* HERO SECTION */
 .hero {
@@ -203,3 +207,4 @@ html {
     align-items: center;
   }
 }
+
